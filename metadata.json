@@ -1,0 +1,5 @@
+{
+  "name": "Police Complaint AI Agent",
+  "description": "An AI-powered conversational agent designed to assist citizens in filing complaints about police treatment. The agent guides users through a conversation to collect crucial details for review by accountability offices.",
+  "requestFramePermissions": []
+}
